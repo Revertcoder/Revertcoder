@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 Mduduzi Matsebula
-💻 Computer Science Graduate | Developer | Data Enthusiast
+🚀 Revertcoder
+💻 Aspiring business analyst | Developer | Data Enthusiast
 
-I am a motivated Computer Science graduate passionate about building technology that solves real-world problems. My experience spans software development, data analysis, IT support, and web development, where I enjoy turning ideas into functional and impactful solutions.
+I’m a Computer Science graduate who enjoys building technology that solves real problems. My journey so far has allowed me to explore different areas of tech, including software development, data analysis, IT support, and web development.
 
-From developing blockchain-based applications to designing modern websites and data-driven systems, I am constantly learning and improving my skills.
+I enjoy taking ideas and turning them into practical solutions — whether it’s developing blockchain-based applications, creating modern websites, or working with data to uncover useful insights. I’m naturally curious, always learning, and constantly looking for ways to grow and improve my skills as a developer.
 
 🧑‍💻 About Me
 
